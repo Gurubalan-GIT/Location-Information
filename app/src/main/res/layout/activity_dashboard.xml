@@ -331,7 +331,6 @@
                         android:padding="5dp"
                         android:text="@string/AboutView"
                         android:textColor="@color/SlateGray" />
-
                 </LinearLayout>
             </android.support.v7.widget.CardView>
         </LinearLayout>

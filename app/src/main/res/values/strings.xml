@@ -14,7 +14,7 @@
     <string name="FetchingSpeed">Fetching Speed</string>
     <string name="Bearing">Bearing</string>
     <string name="Accuracy">Accuracy</string>
-    <string name="FetchingBearingdegrees">Fetching Bearing degrees</string>
+    <string name="FetchingBearingdegrees">Fetching degrees</string>
     <string name="Temperature">Temperature:</string>
     <string name="EnterPlace">Enter Place</string>
     <string name="EnterLongitude">Enter Longitude</string>
