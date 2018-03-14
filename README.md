@@ -13,7 +13,7 @@ Every design structure and UI implemented here is according to the guidelines of
 Includes smooth transitions and other minor UI tweaks with a rich dashboard UI. 
 
 ## FusedLocationProviderClient API.
-This is used mainly because in the new `Google Play Services` update the class `FusedLocationProvider` API will be depreciated and will developers will be recommended to use `FusedLocationProviderClient`.
+This is used mainly because in the new `Google Play Services` update the class `FusedLocationProvider` API will be depreciated and developers will be recommended to use `FusedLocationProviderClient`.
 Learn and Implement the new API using this project or head over to the documentation of [FusedLocationProvierClient](https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderClient).
 
 ## Weather updates.
