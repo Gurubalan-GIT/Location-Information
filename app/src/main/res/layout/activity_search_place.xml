@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="a1.latitudeandlongitude.SearchPlace"
+    android:layout_margin="20dp">
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/inpstring"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_above="@+id/clicker"
+        android:textAlignment="center">
+        <EditText
+            android:id="@+id/input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:layout_centerVertical="true"
+            android:hint="@string/EnterPlace"
+            android:textAlignment="center">
+        </EditText>
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:id="@+id/clicker"
+        android:layout_centerVertical="true"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:text="@string/Search"
+        android:textColor="@color/White"
+        android:background="@drawable/searchbuttonbackround"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

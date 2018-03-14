@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="a1.test">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="Location Info"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="a1.latitudeandlongitude.Splash"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="a1.latitudeandlongitude.MainActivity" />
+        <activity
+            android:name="a1.latitudeandlongitude.Dashboard"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name="a1.latitudeandlongitude.SearchPlace" />
+        <activity android:name="a1.latitudeandlongitude.EnterCoordinates" />
+        <activity android:name="a1.latitudeandlongitude.Compass"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name="a1.latitudeandlongitude.WeatherMain"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
+            />
+    </application>
+
+</manifest>

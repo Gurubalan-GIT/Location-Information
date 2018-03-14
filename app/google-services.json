@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736596454312",
+    "firebase_url": "https://latitudeandlongitude-1adad.firebaseio.com",
+    "project_id": "latitudeandlongitude-1adad",
+    "storage_bucket": "latitudeandlongitude-1adad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736596454312:android:965d1a73af6d81fb",
+        "android_client_info": {
+          "package_name": "a1.latitudeandlongitude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736596454312-89o5qlfd9eqvl2gr1lppvpg4ojgm148g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a1.latitudeandlongitude",
+            "certificate_hash": "96c0e4a75aa3884e0d52351c1f385f971a1159aa"
+          }
+        },
+        {
+          "client_id": "736596454312-mrfsjih05vi9fauhgde5dv3tjel20i27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCpIGf0an_dKso3xHD8vXH6AunY_x0o8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736596454312-mrfsjih05vi9fauhgde5dv3tjel20i27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
