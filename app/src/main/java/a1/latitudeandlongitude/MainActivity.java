@@ -1,4 +1,7 @@
-//Designed and Lisenced by Gurubalan.H, thoroughly for educational purposes.
+/*Designed and Lisenced by Gurubalan.H, thoroughly for educational purposes.
+->This is developed only for reference purposes and is already implemented in the Play store.
+Thank you for stopping buy.
+ */
 package a1.latitudeandlongitude;
 
 import android.Manifest;
