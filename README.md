@@ -26,15 +26,7 @@ Also includes searching a place and also viewing them on `map-serivce` providers
 For more information visit the official documentation of [Google Maps Intents](https://developers.google.com/maps/documentation/urls/android-intents).
 
 ## License
-BSD 2-Clause LicenseCopyright (c) 2018, Gurubalan.H
-All rights reserved.Redistribution and use in source and binary forms, with or withoutmodification, are permitted provided that the following conditions are met:
-**Redistributions of source code must retain the above copyright notice, this.**
-List of conditions and the following disclaimer:
-Redistributions in binary form must reproduce the above copyright notice,this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.This software is provided by the copyright holders and contributors `AS IS`. 
-Any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed.  In no event shall the copyright holder or contributers be liable for any direct, indirect, incidental, special, exemplary or consequential damages (Including, but not limited to, procurement of substitutive goods or services; Loss of use, data,
-or profits). 
-However caused and on any theory of liability, whether in contract, strict liability or tort arising in any way out of the use. 
-
+MIT License. [View here](LICENSE).
 ## Screenshots.
 <img src="Images/1.jpg" height="400"> <img src="Images/2.jpg" height="400"> <img src="Images/3.png" height="400"> <img src="Images/4.png" height="400"> <img src="Images/5.jpg" height="400"> <img src="Images/6.jpg" height="400">
 
