@@ -1,4 +1,4 @@
-# Location Information. 
+# Location Information. [![](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Gurubalan-GIT/Location-Information) ![](https://img.shields.io/github/license/Gurubalan-GIT/Interview-Cell.svg) [![](https://img.shields.io/badge/coverage-100-green.svg)](https://github.com/Gurubalan-GIT/Location-Information)
 This is an android project using the new **FusedLocationProviderClient** as the **FusedLocationApi** has been depreciated and using **GClient** is no longer useful and also includes other features like Weather updates using **JSON parsing**, Compass and so on.  
 This project includes the following topics:
 
